@@ -1,5 +1,5 @@
 ### Hello Muggles!👋⚡
-<p align="center"><img src="https://user-images.githubusercontent.com/106918090/196024092-7f9d4496-ed3e-4202-aeff-062a274bcb78.jpg" width=400px; height=600px; />
+<p align="center"><img src="https://user-images.githubusercontent.com/106918090/196024092-7f9d4496-ed3e-4202-aeff-062a274bcb78.jpg" width=400px; height=550px; />
 </p>
 
 
