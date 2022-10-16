@@ -1,4 +1,5 @@
 ### Hello Muggles!👋⚡
+![FXlbCGVWAAYPcFA](https://user-images.githubusercontent.com/106918090/196024092-7f9d4496-ed3e-4202-aeff-062a274bcb78.jpg)
 
 
 **TakiyaEastmond/TakiyaEastmond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
