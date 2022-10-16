@@ -1,3 +1,8 @@
+<p align="center"><img src="https://user-images.githubusercontent.com/106918090/196024685-d977ecd9-1c62-4c8e-8499-9bb8b4678a08.jpg" width=900px; height=500px; />
+</p>
+
+
+
 ### Hello Muggles!👋⚡
 <p align="center"><img src="https://user-images.githubusercontent.com/106918090/196024092-7f9d4496-ed3e-4202-aeff-062a274bcb78.jpg" width=400px; height=520px; />
 </p>
@@ -13,5 +18,12 @@
 - 📫 How to reach me: TakiyaEastmond@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
+
+
+
+
+
+
+
 
 ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
