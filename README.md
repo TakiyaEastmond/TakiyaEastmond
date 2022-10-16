@@ -19,7 +19,7 @@
 - ⚡ Fun fact: ...
 
 
-<p align="right"><img src="https://user-images.githubusercontent.com/106918090/196025498-ba0c8e1e-4dc4-4127-b3c5-01547d2b2b74.gif" width=100px; height=100px; />
+<p align="right"><img src="https://user-images.githubusercontent.com/106918090/196025498-ba0c8e1e-4dc4-4127-b3c5-01547d2b2b74.gif" width=200px; height=200px; />
 </p>
 
 ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
