@@ -22,9 +22,7 @@
 
 
 
-
-
-<p align="right"><img src="https://user-images.githubusercontent.com/106918090/196025078-37b14771-34d1-4a3f-b1eb-4356031fdf38.gif" width=200px; height=200px; />
+<p align="right"><img src="https://user-images.githubusercontent.com/106918090/196025250-e4882997-3216-4fa8-b234-fd8e09e51165.gif" width=200px; height=200px; />
 </p>
 
 ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
